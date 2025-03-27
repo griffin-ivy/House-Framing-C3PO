@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Common_Stud
+  - Header
+  - Double_Top_Plate
+  - Sill_Plate
+  - Sole_Plate
+  - Bottom_Cripple_Stud
+  - Top_Cripple_Stud
+  - King_Stud
+  - Trimmer_Stud
+  - Common Stud
+  - Double Top Plate
   layers:
   - Default
   - TransparentFX
